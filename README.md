@@ -2,3 +2,4 @@
 Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura de Tecnología
 
 # Imágenes de prueba
+![Panel de Pinball](Imágenes/Copia de pinball.jpg)
