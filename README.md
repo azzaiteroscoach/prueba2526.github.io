@@ -3,7 +3,7 @@ Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura 
 
 **Ponemos texto en negrita**
 
-![Panel de Pinball](imagenes/CopiaPinball.jpg)
+![Panel de Pinball](documentos/CopiaPinball.jpg)
 
 Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 
