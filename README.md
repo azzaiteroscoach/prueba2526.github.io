@@ -1,8 +1,8 @@
 # Cuaderno de prueba curso 2025/26
 Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura de Tecnología.
 
-**POnemos texto en negrita**
+**Ponemos texto en negrita**
 
-![Panel de Pinball](imagenes/CopiaPinball.jpg)
+![Panel de Pinball](CopiaPinball.jpg)
 
 ## Cuaderno de prueba curso 2025/26
