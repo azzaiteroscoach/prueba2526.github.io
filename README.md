@@ -3,6 +3,6 @@ Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura 
 
 **POnemos texto en negrita**
 
-![Panel de Pinball](prueba2526.github.io/CopiaPinball.jpg)
+![Panel de Pinball](imagenes/CopiaPinball.jpg)
 
 ## Cuaderno de prueba curso 2025/26
