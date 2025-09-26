@@ -8,6 +8,9 @@ Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura 
 
 <p align="center">
 <img src="imagenesdelproyecto/logo_azzait.png" width="100" height="100" />
+</p>
+
+<p align="center">
 Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 </p>
 
