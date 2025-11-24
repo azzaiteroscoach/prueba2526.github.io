@@ -16,7 +16,7 @@ Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 
 
 
-[![UN VÍDEO SE PONE ASÍ](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)]
+![UN VÍDEO SE PONE ASÍ](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)
 
 (https://www.youtube.com/watch?v=0_E0w5mqkys)
 
