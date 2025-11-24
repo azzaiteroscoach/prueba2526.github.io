@@ -1,6 +1,8 @@
 # Cuaderno de prueba curso 2025/26
 Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura de Tecnología.
 
+[![](markdown-video.deta.dev/youtube/0_E0w5mqkys)](www.youtube.com/watch?v=0_E0w5mqkys)
+
 **Ponemos texto en negrita**
 ![Descripción](jhdsfhj.jpg)
 ![Prueba de subida de una imagen](documentos/CopiaPinball.jpg)
@@ -20,7 +22,7 @@ Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 
 (https://www.youtube.com/watch?v=0_E0w5mqkys)
 
-[![](markdown-video.deta.dev/youtube/0_E0w5mqkys)](www.youtube.com/watch?v=0_E0w5mqkys)
+
 
 
 ## Cuaderno de prueba curso 2025/26
