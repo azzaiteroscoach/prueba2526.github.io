@@ -14,10 +14,7 @@ Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura 
 
 <p align="center">
 Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
-</p>
 
-
-<p align="center">
   
 [![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)
 
