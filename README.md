@@ -20,7 +20,7 @@ Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 
 (https://www.youtube.com/watch?v=0_E0w5mqkys)
 
-
+[![](markdown-video.deta.dev/youtube/0_E0w5mqkys)](www.youtube.com/watch?v=0_E0w5mqkys)
 
 
 ## Cuaderno de prueba curso 2025/26
