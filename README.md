@@ -14,4 +14,7 @@ Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura 
 Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 </p>
 
+
+
+[UN VÍDEO SE PONE ASÍ] (https://www.youtube.com/watch?v=0_E0w5mqkys)
 ## Cuaderno de prueba curso 2025/26
