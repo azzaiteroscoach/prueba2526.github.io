@@ -1,7 +1,7 @@
 # Cuaderno de prueba curso 2025/26
 Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura de Tecnología.
 
-[![](https://markdown-videos.deta.dev/youtube/0_E0w5mqkys)](www.youtube.com/watch?v=0_E0w5mqkys)
+[![](https://markdown-videos.deta.dev/youtube/0_E0w5mqkys)](https://youtu.be/0_E0w5mqkys?si=kSxKnxuNdJkEZfs6)
 
 **Ponemos texto en negrita**
 ![Descripción](jhdsfhj.jpg)
