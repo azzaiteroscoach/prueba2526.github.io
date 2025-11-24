@@ -22,8 +22,8 @@ Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 
 
 
-|Vídeo WRO Jaén 2025|Vídeo WRO Vigo 2025|
+|Vídeo WRO Jaén 2025|Vídeo WRO España 2022|
 |-|-|
-|[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)|[![](https://img.youtube.com/vi/KkBRgt4UZME/0.jpg)](https://www.youtube.com/watch?v=KkBRgt4UZME)|
+|[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)|[![](https://img.youtube.com/vi/zn2-rXmkMr4/0.jpg)](https://www.youtube.com/watch?v=zn2-rXmkMr4)|
 
 ## Cuaderno de prueba curso 2025/26
