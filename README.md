@@ -20,10 +20,10 @@ Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 
 
 
-[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)
+
 
 |Vídeo 1|Vídeo 2|
 |-|-|
-|[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)|Dos|
+|[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)|[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)|
 
 ## Cuaderno de prueba curso 2025/26
