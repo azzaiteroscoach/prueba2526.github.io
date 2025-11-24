@@ -14,16 +14,16 @@ Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura 
 
 <p align="center">
 Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
-
-  
-[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)
-
 </p>
+  
+
+
+
 
 [![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)
 
-|kjdshfsakññlf|kldjf|
+|Vídeo 1|Vídeo 2|
 |-|-|
-|UNo|Dos|
+|[![](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)](https://www.youtube.com/watch?v=0_E0w5mqkys)|Dos|
 
 ## Cuaderno de prueba curso 2025/26
