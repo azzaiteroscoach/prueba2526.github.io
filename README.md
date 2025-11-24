@@ -15,11 +15,12 @@ Puedes consultar la web del [IES AZ-ZAIT](https://www.iesaz-zait.es)
 </p>
 
 
-<p align="center">
-  
+
 ![UN VÍDEO SE PONE ASÍ](https://img.youtube.com/vi/0_E0w5mqkys/0.jpg)
 
 (https://www.youtube.com/watch?v=0_E0w5mqkys)
 
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0_E0w5mqkys?si=kY0QnaVJrV0wvpI-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Cuaderno de prueba curso 2025/26
