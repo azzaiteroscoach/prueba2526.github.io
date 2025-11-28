@@ -1,5 +1,6 @@
-<iframe src="https://docs.google.com/file/d/1QzUF1ZxDQKPys7wt6OwQ0MnIMCaTwL31/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<iframe src="https://docs.google.com/file/d/1QzUF1ZxDQKPys7wt6OwQ0MnIMCaTwL31/preview" width="640" height="480" allow="autoplay">
+  
+</iframe>
 
 # Cuaderno de prueba curso 2025/26
 Esta es una página de aprendizaje de cara a ponerlo en marcha en la asignatura de Tecnología.
